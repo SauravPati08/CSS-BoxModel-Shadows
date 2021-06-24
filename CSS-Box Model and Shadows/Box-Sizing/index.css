@@ -1,0 +1,17 @@
+#div1{
+    width: 300px;
+    height: 300px;
+    font-size: 24px;
+    background-color: lightcoral;
+    padding: 32px;
+}
+
+#div2{
+    width: 300px;
+    height: 300px;
+    font-size: 24px;
+    background-color: burlywood;
+    margin-top: 24px;
+    padding: 32px;
+    box-sizing: border-box;
+}

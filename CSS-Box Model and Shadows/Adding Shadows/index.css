@@ -1,0 +1,11 @@
+#heading1{
+    text-shadow: 4px 4px 4px grey; /* 1st 4px for horizontal 2nd 4px for vertical 3rd 4px for blurry */
+}
+
+#heading2{
+    width: 300px;
+    height: 400px;
+    border-radius: 4px;
+    background-color: antiquewhite;
+    box-shadow: 2px 2px 4px red;
+}
